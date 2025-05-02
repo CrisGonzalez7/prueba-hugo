@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hermit"
+
+[params]
+  dateform = "Jan 2, 2006"
+  dateformShort = "Jan 2"
+  dateformNum = "02-01-2006"
+  dateformNumTime = "02-01-2006 15:04"
