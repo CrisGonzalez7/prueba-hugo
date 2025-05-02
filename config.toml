@@ -1,4 +1,4 @@
-baseURL = "https://prueba-hugo-11.netlify.app"
+baseURL = "https://prueba-hugo-11.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hermit"
